@@ -1,6 +1,6 @@
 # ng_ml
 
- This repository contains my solutions to the octave assignments I completed whilst following Andrew Ng's popular [*Machine Learning* coursera course](https://www.coursera.org/learn/machine-learning). 
+This repository contains my solutions to the octave assignments I completed whilst following Andrew Ng's popular [*Machine Learning* coursera course](https://www.coursera.org/learn/machine-learning). 
  
 <img src="./ng.jpg" alt="isl" width="30%"/>
    
