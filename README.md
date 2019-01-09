@@ -8,11 +8,11 @@ This repository contains my solutions to the octave assignments I completed whil
    
 ## Solutions
    
-- Implement Linear Regression [lab sheet]() | [solution]()
-- Implement Regularised Linear Regression [lab sheet]() | [solution]()
-- Implement Logistic Regression [lab sheet]() | [solution]()
-- Implement One vs. All Logistic Regression [lab sheet]() | [solution]()
-- Implement Backpropagation [lab sheet]() | [solution]()
-- Implement an SVM [lab sheet]() | [solution]()
-- Implement K-means clustering and PCA [lab sheet]() | [solution]()
-- Implement an anomaly detection algorithm and a recommendation algorithm [lab sheet]() | [solution]()
+- Linear Regression [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex1/ex1.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex1/ex1)
+- Logistic Regression [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex2/ex2.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex2/ex2)
+- Multi-class Classification and Neural Neetworks [lab sheet]https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex3/ex3.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex3/ex3)
+- Neural Networks Learning [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex4/ex4.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex4/ex4)
+- Regularized Linear Regression and Bian v.s. Variance [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex5/ex5.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex5/ex5)
+- Support Vector Machines [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex6/ex6.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex6/ex6)
+- K-means Clustering and Principal Component Analysis [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex7/ex7.pdf) | [solution](https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex7/ex7)
+- Anomaly Detection and Recommender Systems [lab sheet](https://github.com/coxy1989/ng_ml/blob/master/machine-learning-ex8/ex8.pdf)| [solution] (https://github.com/coxy1989/ng_ml/tree/master/machine-learning-ex8/ex8)
